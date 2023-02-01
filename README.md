@@ -44,6 +44,10 @@ If cloned locally, run this command to initaialize application:
 
 Link to Demo [Here](https://drive.google.com/file/d/1913Y1bpoNl8imTGRqiP4438WF3mg1Xab/view)
 
+## Credits
+
+- Collaborators: Shelby Hernandez(github.com/shernandez927)
+
 
 ## License
 
