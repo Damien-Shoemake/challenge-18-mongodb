@@ -46,7 +46,7 @@ Link to Demo [Here](https://drive.google.com/file/d/1913Y1bpoNl8imTGRqiP4438WF3m
 
 ## Credits
 
-- Collaborators: Shelby Hernandez(github.com/shernandez927)
+- Collaborators: Shelby Hernandez([https://github.com/shernandez927]
 
 
 ## License
